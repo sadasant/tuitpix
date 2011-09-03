@@ -3,7 +3,9 @@
 [3]:http://www.opensource.org/licenses/mit-license.php "MIT License"
 [4]:http://creativecommons.org/licenses/by-nc-sa/3.0/ "Creative Commons License"
 
-## The Goal ## 
+Welcome to Tuitpix's repos :)
+
+## The Goal ##
 
 Tuitpix.com is a website made by @[sadasant][0] during his studies on canvas and image manipulations. It's intended to be a free online tool to configure, draw, save and publish pixel art avatars over social networks.
 
@@ -13,7 +15,7 @@ It has been developed and designed in a minimalist and fast way, using free open
 
 I (@sadasant) have to thank to all open knowledge, such as the posts made on blogs and forums about this technologies, like this post about saving canvas on the server. I've also used third-party libraries, such as tmhOAuth, jQuery and jsColor.
 
-You can read mor info at our [about page].
+You can read mor info at our [about page][1].
 
 ## Small guide: ##
 * PHP files were not included for security.
