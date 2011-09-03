@@ -1,0 +1,17 @@
+<b>The Arrows</b>
+<br/><br/>
+There arrow-like buttons allow you to loop over several options.
+<br/><br/>
+You're currently on the <span id="category"></span> <span id="part"></span>.
+<script>
+	var p = {
+			"gen": "<b>skins</b> and <b>genders</b>",
+			"hair": "<b>hairs</b> and <b>hats</b>",
+			"beard": "<b>beards</b>, <b>mustaches</b> and <b>smiles</b>",
+			"wear": "<b>dresses</b> and <b>suits</b>",
+			"addon": "<b>add-ons</b>"
+		},
+		cat = (tuitpix.active !== "gen")? "<b>"+tuitpix.set[[tuitpix.active]][tuitpix.cats[[tuitpix.active]]][0]+"</b> in" : ""; 
+	$("#help_text #part").html(p[tuitpix.active]);
+	$("#help_text #category").html(cat);
+</script>

@@ -1,0 +1,33 @@
+<b>Las Flechas</b> 
+<br/><br/>
+Los botones en forma de flecha te permitirán recorrer una serie de opciones.
+<br/><br/>
+Actualmente estás en <span id="part"></span><span id="category"></span>.
+<script>
+	var p = {
+	        "gen": "<b>pieles</b> y <b>géneros</b>",
+		"hair": "<b>cabellos</b>",
+		"beard": "<b>barbas</b>, <b>bigotes</b> y <b>sonrisas</b>",
+		"wear": "<b>vestidos</b> y <b>trajes</b>",
+		"addon": "<b>complementos</b>"
+	    },
+	    c = {
+	        "defaults": " por defecto",
+	        "loaded": " cargados",
+	        "saved": " guardados",
+	        "hats":"</b>, <b>sombreros",
+	        "colors":" coloridos",
+	        "specials":" especiales",
+	        "casuals":" casuales",
+	        "formals":" formales",
+	        "sports":" deportivos",
+	        "brands":"marcas",
+	        "stuffs":" variados",
+	        "masks":"</b>, <b>máscaras",
+	        "flags":"</b>, <b>banderas",
+	        "musicals":" musicales"
+	    },
+	    cat = (tuitpix.active !== "gen" && c[tuitpix.set[[tuitpix.active]][tuitpix.cats[[tuitpix.active]]][0]])? "<b>"+c[tuitpix.set[[tuitpix.active]][tuitpix.cats[[tuitpix.active]]][0]]+"</b>" : ""; 
+	$("#help_text #part").html(p[tuitpix.active]);
+	$("#help_text #category").html(cat);
+</script>

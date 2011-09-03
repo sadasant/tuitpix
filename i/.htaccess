@@ -1,0 +1,7 @@
+# ATENCION - NO ELIMINE ESTE ARCHIVO - PROTECCION 777
+# Prohibida la ejecucion de archivos en carpetas 777
+<filesmatch "\.(js|php*|css|pl|cgi|htm|html|jsp)$">
+
+deny from all
+
+</filesmatch>

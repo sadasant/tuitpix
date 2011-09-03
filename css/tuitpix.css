@@ -1,0 +1,115 @@
+/*
+ * tuitpix.css
+ * Copyright (c) 2011 Daniel Rodriguez, dan@tuitpix.com
+ * MIT License [http://www.opensource.org/licenses/mit-license.php]
+ */
+ABBR,ARTICLE,ASIDE,AUDIO,BB,CANVAS,DATAGRID,DATALIST,DETAILS,DIALOG,FIGURE,FOOTER,HEADER,MARK,MENU,METER,NAV,OUTPUT,PROGRESS,SECTION,TIME,VIDEO{display:block}
+HTML,BODY,DIV,SPAN,APPLET,OBJECT,IFRAME,H1,H2,H3,H4,H5,H6,P,BLOCKQUOTE,PRE,A,ABBR,ACRONYM,ADDRESS,BIG,CITE,CODE,DEL,DFN,EM,FONT,IMG,INS,KBD,Q,S,SAMP,SMALL,STRIKE,STRONG,SUB,SUP,TT,VAR,HR,B,U,I,CENTER,DL,DT,DD,FIELDSET,FORM,LABEL,LEGEND,TABLE,CAPTION,TBODY,TFOOT,THEAD,TR,TH,TD{border:none;outline:none;vertical-align:baseline;font-family:inherit;font-size:100%;margin:0;padding:0}
+DFN,I,CITE,VAR,ADDRESS{font-style:normal}
+TH,B,STRONG,H1,H2,H3,H4,H5,H6{font-weight:700}
+TEXTAREA,INPUT,SELECT{font-family:inherit;font-size:1em}
+BLOCKQUOTE,Q{quotes:none}
+OL,UL{list-style:disc}
+CAPTION,TH,TD{text-align:left}
+body{font-family:mono;font-size:13px}
+small{font-size:11px;}
+EM{font-style:normal;font-weight:700}
+a{text-decoration:none}
+#header{width:100%;height:70px}
+h1{width:287px;cursor:hand;padding:7px}
+#header .sublogo{margin-top:21px;margin-left:-14px;}
+#menu{position:fixed;top:0;left:0;background:transparent url(../img/main.png) 0 -49px no-repeat;width:49px;height:49px}
+#menu #submenu{position:absolute;margin-left:42px;margin-top:7px;width:161px;height:140px;display:none}
+#menu #submenu div{width:161px;height:49px;margin-top:-7px;}
+#menu #submenu #submenu_index{background:transparent url(../img/main.png) 0 -147px no-repeat}
+#menu #submenu #submenu_index:hover{background:transparent url(../img/main.png) 0 -98px no-repeat}
+#menu #submenu #submenu_maker{background:transparent url(../img/main.png) 0 -245px no-repeat}
+#menu #submenu #submenu_maker:hover{background:transparent url(../img/main.png) 0 -196px no-repeat}
+#menu #submenu #submenu_about{background:transparent url(../img/main.png) 0 -343px no-repeat}
+#menu #submenu #submenu_about:hover{background:transparent url(../img/main.png) 0 -294px no-repeat}
+#help{position:fixed;background:#0A0A0A;box-shadow:0 0 7px #000;display:none;font-size:14px;font-family:sans-serif;z-index:100}
+#help #help_text{padding:7px 14px}
+#help b{font-size:14px;color:#369aa9}
+#help small{font-size:10px}
+#help #stop{width:161px;height:14px;cursor:hand;padding:7px 14px}
+#help #stop:hover{background:#dbd150}
+#help ul{list-style-type:square;margin-left:-14px}
+.center{position:relative;margin:0 auto}
+#content{width:301px;height:315px;border:0 solid red}
+#left_menu{position:absolute;width:42px;margin-left:-42px;padding:14px 0}
+#left_menu div{cursor:hand;margin:7px 0 0}
+#left_menu .gen{position:absolute;bottom:-79px}
+.color{position:absolute;width:1px;height:1px;border:0;font-size:0;z-index:-100}
+#controls{position:absolute;z-index:2;max-width:70px;}
+#controls #main{margin-top:28px;cursor:hand}
+#controls #arrow_right, #controls #subsub #arrow_right{margin-top:0;margin-left:-7px}
+#controls #sub #arrow_right{}
+#controls #subsub #arrow_right{width:28px}
+#avatar,#maker{width:301px;height:301px;position:absolute;margin-top:0}
+#loading{background:transparent url(../img/loading.png) 0 0;width:21px;height:21px;position:absolute;margin-top:140px;margin-left:140px;z-index:10;text-align:center}
+#right_menu{position:absolute;color:#ddd;margin-top:0;right:-49px;width:35px;font-weight:700;padding-top:21px;cursor:hand}
+.color_maker{width:28px;height:28px;border:0;font-size:0;margin:7px}
+#footer{margin-top:21px;text-align:center}
+#footer #text{margin-left:190px}
+#logo{width:77px;height:70px;background:transparent url(../img/logo.png) 0px 0px no-repeat;margin-top:-7px;margin-left:-7px;}
+#logo_index{width:112px;height:35px;background:transparent url(../img/tops.png) 0 0 no-repeat;}
+#logo_maker{width:112px;height:35px;background:transparent url(../img/tops.png) 0 -35px no-repeat}
+#logo_about{width:112px;height:35px;background:transparent url(../img/tops.png) -112px 0 no-repeat}
+#logo_users{width:112px;height:35px;background:transparent url(../img/tops.png) -112px -35px no-repeat}
+#tw_save{width:28px;height:42px;background:transparent url(../img/twitter.png) 0 -42px no-repeat;margin-left:7px}
+#tw_save:hover{background:transparent url(../img/twitter.png) 0 0 no-repeat}
+#tw_login{width:28px;height:42px;background:transparent url(../img/twitter.png) -28px -42px no-repeat;margin-left:7px}
+#tw_login:hover{background:transparent url(../img/twitter.png) -28px 0 no-repeat}
+#tw_logout{width:28px;height:42px;background:transparent url(../img/twitter.png) -56px -42px no-repeat;margin-left:7px}
+#tw_logout:hover{background:transparent url(../img/twitter.png) -56px 0 no-repeat}
+#img_none{width:42px;height:42px}
+#img_gen{width:42px;height:49px;background:transparent url(../img/buttons.png) 0 0 no-repeat}
+#img_gen:hover{background:transparent url(../img/buttons.png) -42px 0 no-repeat}
+#img_gen.active{background:transparent url(../img/buttons.png) -84px 0 no-repeat}
+#img_gen.active:hover{background:transparent url(../img/buttons.png)-126px 0 no-repeat}
+#img_gen.unactive{background:transparent url(../img/buttons.png) 0 -245px no-repeat}
+#img_hair{width:42px;height:49px;background:transparent url(../img/buttons.png) 0 -49px no-repeat}
+#img_hair:hover{background:transparent url(../img/buttons.png) -42px -49px no-repeat}
+#img_hair.active{background:transparent url(../img/buttons.png) -84px -49px no-repeat}
+#img_hair.active:hover{background:transparent url(../img/buttons.png)-126px -49px no-repeat}
+#img_beard{width:42px;height:49px;background:transparent url(../img/buttons.png) 0 -98px no-repeat}
+#img_beard:hover{background:transparent url(../img/buttons.png) -42px -98px no-repeat}
+#img_beard.active{background:transparent url(../img/buttons.png) -84px -98px no-repeat}
+#img_beard.active:hover{background:transparent url(../img/buttons.png)-126px -98px no-repeat}
+#img_wear{width:42px;height:49px;background:transparent url(../img/buttons.png) 0 -147px no-repeat}
+#img_wear:hover{background:transparent url(../img/buttons.png) -42px -147px no-repeat}
+#img_wear.active{background:transparent url(../img/buttons.png) -84px -147px no-repeat}
+#img_wear.active:hover{background:transparent url(../img/buttons.png)-126px -147px no-repeat}
+#img_addon{width:42px;height:49px;background:transparent url(../img/buttons.png) 0 -196px no-repeat}
+#img_addon:hover{background:transparent url(../img/buttons.png) -42px -196px no-repeat}
+#img_addon.active{background:transparent url(../img/buttons.png) -84px -196px no-repeat}
+#img_addon.active:hover{background:transparent url(../img/buttons.png)-126px -196px no-repeat}
+#img_down{width:42px;height:42px;background:transparent url(../img/buttons.png) -168px -84px no-repeat;margin-top:7px;}
+#img_down:hover{width:49px;height:49px;background:transparent url(../img/buttons.png)-168px -126px no-repeat;margin-top:0px;}
+#img_save{width:56px;height:42px;background:transparent url(../img/buttons.png) -168px 0px no-repeat}
+#img_save:hover{background:transparent url(../img/buttons.png) -168px -42px no-repeat}
+#img_boy{width:42px;height:49px;background:transparent url(../img/buttons_maker.png)-168px 0 no-repeat}
+#img_boy:hover{background:transparent url(../img/buttons_maker.png)-210px 0 no-repeat}
+#img_girl{width:42px;height:49px;background:transparent url(../img/buttons_maker.png)-168px -49px no-repeat}
+#img_girl:hover{background:transparent url(../img/buttons_maker.png)-210px -49px no-repeat}
+#img_brsh{width:42px;height:49px;background:transparent url(../img/buttons_maker.png) 0 0 no-repeat}
+#img_brsh:hover{background:transparent url(../img/buttons_maker.png) -42px 0 no-repeat}
+#img_brsh.inuse{width:42px;height:49px;background:transparent url(../img/buttons_maker.png) -84px 0 no-repeat}
+#img_brsh.inuse:hover{background:transparent url(../img/buttons_maker.png)-126px 0 no-repeat}
+#img_ersr{width:42px;height:49px;background:transparent url(../img/buttons_maker.png) 0 -49px no-repeat}
+#img_ersr:hover{background:transparent url(../img/buttons_maker.png) -42px -49px no-repeat}
+#img_ersr.inuse{width:42px;height:49px;background:transparent url(../img/buttons_maker.png) -84px -49px no-repeat}
+#img_ersr.inuse:hover{background:transparent url(../img/buttons_maker.png)-126px -49px no-repeat}
+#arrow_left{width:28px;height:35px;background:transparent url(../img/buttons.png)-168px -210px no-repeat}
+#arrow_left:hover{background:transparent url(../img/buttons.png)-196px -210px no-repeat}
+#arrow_right{width:21px;height:35px;background:transparent url(../img/buttons.png)-168px -175px no-repeat}
+#arrow_right:hover{background:transparent url(../img/buttons.png)-196px -175px no-repeat}
+#flag_vzla{width:49px;height:35px;background:transparent url(../img/flags.png)-49px -35px no-repeat; margin-top:21px; margin-right:14px;}
+#flag_vzla:hover,#flag_vzla.active{background:transparent url(../img/flags.png)-49px 0px no-repeat}
+#flag_engl{width:49px;height:35px;background:transparent url(../img/flags.png)0px -35px no-repeat; margin-top:21px; margin-left:7px;}
+#flag_engl:hover,#flag_engl.active{background:transparent url(../img/flags.png)0px 0px no-repeat}
+#header div,#controls .float{float:left}
+#controls #main div,#controls #sub div{width:28px}
+#controls #sub,#maker{cursor:hand}
+#controls #arrow_left,#controls #sub #arrow_left{margin-left:0}
+#img_gen.unactive:hover,#img_totw:hover{background:transparent url(../img/buttons.png) -42px -245px no-repeat}
