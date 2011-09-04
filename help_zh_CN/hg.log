@@ -1,0 +1,246 @@
+changeset:   29:b7d562db9ae4
+tag:         tip
+user:        genzj vps.genzj.info
+date:        Thu Sep 01 03:09:47 2011 -0400
+files:       zh_CN/eng_index_avatar.html zh_CN/eng_index_controls.html zh_CN/eng_index_default.html zh_CN/eng_index_img_addon.html zh_CN/eng_index_img_beard.html zh_CN/eng_index_img_down.html zh_CN/eng_index_img_gen.html zh_CN/eng_index_img_hair.html zh_CN/eng_index_img_save.html zh_CN/eng_index_img_wear.html zh_CN/eng_index_left_menu.html zh_CN/eng_index_load.html zh_CN/eng_index_right_menu.html zh_CN/eng_index_save.html zh_CN/eng_index_tw_login.html zh_CN/eng_index_tw_logout.html zh_CN/eng_index_tw_save.html zh_CN/eng_maker_default.html zh_CN/eng_maker_img_addon.html zh_CN/eng_maker_img_beard.html zh_CN/eng_maker_img_boy.html zh_CN/eng_maker_img_brsh.html zh_CN/eng_maker_img_ersr.html zh_CN/eng_maker_img_gen.html zh_CN/eng_maker_img_girl.html zh_CN/eng_maker_img_hair.html zh_CN/eng_maker_img_save.html zh_CN/eng_maker_img_wear.html zh_CN/eng_maker_left_menu.html zh_CN/eng_maker_login.html zh_CN/eng_maker_maker.html zh_CN/eng_maker_right_menu.html zh_CN/eng_maker_save.html zh_CN/eng_maker_tw_login.html zh_CN/eng_maker_tw_logout.html zh_CN/zh_cn_index_avatar.html zh_CN/zh_cn_index_controls.html zh_CN/zh_cn_index_default.html zh_CN/zh_cn_index_img_addon.html zh_CN/zh_cn_index_img_beard.html zh_CN/zh_cn_index_img_down.html zh_CN/zh_cn_index_img_gen.html zh_CN/zh_cn_index_img_hair.html zh_CN/zh_cn_index_img_save.html zh_CN/zh_cn_index_img_wear.html zh_CN/zh_cn_index_left_menu.html zh_CN/zh_cn_index_load.html zh_CN/zh_cn_index_right_menu.html zh_CN/zh_cn_index_save.html zh_CN/zh_cn_index_tw_login.html zh_CN/zh_cn_index_tw_logout.html zh_CN/zh_cn_index_tw_save.html zh_CN/zh_cn_maker_default.html zh_CN/zh_cn_maker_img_addon.html zh_CN/zh_cn_maker_img_beard.html zh_CN/zh_cn_maker_img_boy.html zh_CN/zh_cn_maker_img_brsh.html zh_CN/zh_cn_maker_img_ersr.html zh_CN/zh_cn_maker_img_gen.html zh_CN/zh_cn_maker_img_girl.html zh_CN/zh_cn_maker_img_hair.html zh_CN/zh_cn_maker_img_save.html zh_CN/zh_cn_maker_img_wear.html zh_CN/zh_cn_maker_left_menu.html zh_CN/zh_cn_maker_login.html zh_CN/zh_cn_maker_maker.html zh_CN/zh_cn_maker_right_menu.html zh_CN/zh_cn_maker_save.html zh_CN/zh_cn_maker_tw_login.html zh_CN/zh_cn_maker_tw_logout.html
+description:
+All files renamed.
+
+
+changeset:   28:3e0aeb2159bf
+user:        Jie ZHU W510 WoW64 <jiezhu0512@gmail.com>
+date:        Thu Sep 01 13:35:13 2011 +0800
+files:       .hgtags
+description:
+Added tag rel1.0 for changeset ca207103b1f6
+
+
+changeset:   27:ca207103b1f6
+tag:         rel1.0
+user:        Jie ZHU W510 WoW64 <jiezhu0512@gmail.com>
+date:        Thu Sep 01 13:33:17 2011 +0800
+files:       zh_CN/eng_index_img_hair.html zh_CN/eng_index_load.html zh_CN/eng_maker_img_girl.html
+description:
+changed encoding to utf8 zh_CN/eng_index_img_hair.html zh_CN/eng_index_load.html zh_CN/eng_maker_img_girl.html
+
+
+changeset:   26:ffe5033fc9b7
+user:        Jie ZHU W510 WoW64 <jiezhu0512@gmail.com>
+date:        Thu Sep 01 13:29:18 2011 +0800
+files:       zh_CN/eng_index_img_gen.html
+description:
+changed encoding to utf8 zh_CN/eng_index_img_gen.html
+
+
+changeset:   25:fefdd032a04a
+user:        Jie ZHU W510 WoW64 <jiezhu0512@gmail.com>
+date:        Thu Sep 01 13:27:03 2011 +0800
+files:       zh_CN/eng_maker_right_menu.html
+description:
+finished zh_CN/eng_maker_right_menu.html
+
+
+changeset:   24:30b9db6753ef
+user:        Jie ZHU W510 WoW64 <jiezhu0512@gmail.com>
+date:        Thu Sep 01 13:23:17 2011 +0800
+files:       zh_CN/eng_index_tw_logout.html zh_CN/eng_maker_save.html zh_CN/eng_maker_tw_login.html zh_CN/eng_maker_tw_logout.html
+description:
+finished zh_CN/eng_index_tw_logout.html zh_CN/eng_maker_save.html zh_CN/eng_maker_tw_login.html zh_CN/eng_maker_tw_logout.html
+
+
+changeset:   23:375eede0dfe3
+user:        Jie ZHU W510 WoW64 <jiezhu0512@gmail.com>
+date:        Thu Sep 01 13:15:06 2011 +0800
+files:       zh_CN/eng_maker_login.html zh_CN/eng_maker_maker.html
+description:
+finished zh_CN/eng_maker_login.html zh_CN/eng_maker_maker.html
+
+
+changeset:   22:d81c32917b92
+user:        Jie ZHU W510 WoW64 <jiezhu0512@gmail.com>
+date:        Thu Sep 01 13:08:41 2011 +0800
+files:       zh_CN/eng_maker_left_menu.html
+description:
+finished zh_CN/eng_maker_left_menu.html
+
+
+changeset:   21:9cc19a8fe575
+user:        Jie ZHU W510 WoW64 <jiezhu0512@gmail.com>
+date:        Thu Sep 01 13:06:15 2011 +0800
+files:       zh_CN/eng_maker_img_save.html zh_CN/eng_maker_img_wear.html
+description:
+finished zh_CN/eng_maker_img_save.html zh_CN/eng_maker_img_wear.html
+
+
+changeset:   20:464237744e6f
+user:        Jie ZHU W510 WoW64 <jiezhu0512@gmail.com>
+date:        Thu Sep 01 13:03:13 2011 +0800
+files:       zh_CN/eng_maker_img_ersr.html zh_CN/eng_maker_img_gen.html zh_CN/eng_maker_img_girl.html zh_CN/eng_maker_img_hair.html
+description:
+finished zh_CN/eng_maker_img_ersr.html zh_CN/eng_maker_img_gen.html zh_CN/eng_maker_img_girl.html zh_CN/eng_maker_img_hair.html
+
+
+changeset:   19:0331e718d38e
+user:        Jie ZHU W510 WoW64 <jiezhu0512@gmail.com>
+date:        Thu Sep 01 12:57:22 2011 +0800
+files:       zh_CN/eng_maker_img_boy.html zh_CN/eng_maker_img_brsh.html
+description:
+finished zh_CN/eng_maker_img_boy.html zh_CN/eng_maker_img_brsh.html
+
+
+changeset:   18:c7e07e638776
+user:        Jie ZHU W510 WoW64 <jiezhu0512@gmail.com>
+date:        Thu Sep 01 11:15:16 2011 +0800
+files:       zh_CN/eng_maker_img_addon.html zh_CN/eng_maker_img_beard.html
+description:
+finished zh_CN/eng_maker_img_addon.html zh_CN/eng_maker_img_beard.html
+
+
+changeset:   17:24b1c3837c26
+user:        Jie ZHU W510 WoW64 <jiezhu0512@gmail.com>
+date:        Thu Sep 01 11:03:53 2011 +0800
+files:       zh_CN/eng_index_default.html zh_CN/eng_maker_default.html
+description:
+finished zh_CN/eng_maker_default.html
+changed zh_CN/eng_index_default.html
+
+
+changeset:   16:c53a1eab25a0
+user:        Jie ZHU W510 WoW64 <jiezhu0512@gmail.com>
+date:        Thu Sep 01 10:20:58 2011 +0800
+files:       zh_CN/eng_index_tw_save.html
+description:
+finished zh_CN/eng_index_tw_save.html
+
+
+changeset:   15:5f011f442552
+user:        Jie ZHU W510 WoW64 <jiezhu0512@gmail.com>
+date:        Thu Sep 01 10:18:13 2011 +0800
+files:       zh_CN/eng_index_tw_login.html zh_CN/eng_index_tw_logout.html
+description:
+finished zh_CN/eng_index_tw_login.html zh_CN/eng_index_tw_logout.html
+
+
+changeset:   14:ce550c164cf4
+user:        Jie ZHU W510 WoW64 <jiezhu0512@gmail.com>
+date:        Thu Sep 01 10:15:33 2011 +0800
+files:       zh_CN/eng_index_right_menu.html
+description:
+encoding changed to utf8 zh_CN/eng_index_right_menu.html
+
+
+changeset:   13:4ddc33549994
+user:        Jie ZHU W510 WoW64 <jiezhu0512@gmail.com>
+date:        Thu Sep 01 10:13:42 2011 +0800
+files:       zh_CN/eng_index_save.html
+description:
+finished zh_CN/eng_index_save.html
+
+
+changeset:   12:3f01724aa160
+user:        genzj <zj0512@gmail.com> Workstation
+date:        Tue Aug 30 22:53:28 2011 +0800
+files:       zh_CN/eng_index_img_wear.html zh_CN/eng_index_right_menu.html
+description:
+finished zh_CN/eng_index_right_menu.html
+fixed zh_CN/eng_index_img_wear.html
+
+
+changeset:   11:2e6fa86a54bf
+user:        genzj <zj0512@gmail.com> Workstation
+date:        Tue Aug 30 22:18:58 2011 +0800
+files:       zh_CN/eng_index_load.html
+description:
+finished zh_CN/eng_index_load.html
+
+
+changeset:   10:4620e181cf4e
+user:        genzj <zj0512@gmail.com> Workstation
+date:        Tue Aug 30 22:15:41 2011 +0800
+files:       zh_CN/eng_index_left_menu.html
+description:
+finished zh_CN/eng_index_left_menu.html
+
+
+changeset:   9:ce107c6371e4
+user:        genzj <zj0512@gmail.com> Workstation
+date:        Tue Aug 30 22:08:17 2011 +0800
+files:       zh_CN/eng_index_img_wear.html
+description:
+finished zh_CN/eng_index_img_wear.html
+
+
+changeset:   8:59ac39de1173
+user:        genzj <zj0512@gmail.com> Workstation
+date:        Tue Aug 30 22:06:02 2011 +0800
+files:       zh_CN/eng_index_img_save.html
+description:
+finished zh_CN/eng_index_img_save.html
+
+
+changeset:   7:0517fb2941c8
+user:        genzj <zj0512@gmail.com> Workstation
+date:        Tue Aug 30 22:04:09 2011 +0800
+files:       zh_CN/eng_index_img_hair.html
+description:
+finished zh_CN/eng_index_img_hair.html
+
+
+changeset:   6:e1ea3f83a386
+user:        genzj <zj0512@gmail.com> Workstation
+date:        Tue Aug 30 22:02:02 2011 +0800
+files:       zh_CN/eng_index_img_down.html zh_CN/eng_index_img_gen.html
+description:
+finished zh_CN/eng_index_img_gen.html
+fixed zh_CN/eng_index_img_down.html
+
+
+changeset:   5:5c303bb200fa
+user:        genzj <zj0512@gmail.com> Workstation
+date:        Tue Aug 30 21:58:52 2011 +0800
+files:       zh_CN/eng_index_img_down.html
+description:
+finished zh_CN/eng_index_img_down.html
+
+
+changeset:   4:a5218c5cb113
+user:        genzj <zj0512@gmail.com> Workstation
+date:        Tue Aug 30 21:57:17 2011 +0800
+files:       zh_CN/eng_index_img_beard.html
+description:
+finished zh_CN/eng_index_img_beard.html
+
+
+changeset:   3:e41e12e143ad
+user:        genzj <zj0512@gmail.com> Workstation
+date:        Tue Aug 30 21:54:16 2011 +0800
+files:       zh_CN/eng_index_default.html zh_CN/eng_index_img_addon.html
+description:
+finished zh_CN/eng_index_default.html and zh_CN/eng_index_img_addon.html
+
+
+changeset:   2:bab764c640a1
+user:        genzj <zj0512@gmail.com> Workstation
+date:        Tue Aug 30 21:36:50 2011 +0800
+files:       zh_CN/eng_index_controls.html
+description:
+finished zh_CN/eng_index_controls.html
+
+
+changeset:   1:e8dcebc76e09
+user:        genzj <zj0512@gmail.com> Workstation
+date:        Tue Aug 30 21:27:52 2011 +0800
+files:       zh_CN/eng_index_avatar.html
+description:
+finished zh_CN/eng_index_avatar.html
+
+
+changeset:   0:0511b9a1917c
+user:        genzj <zj0512@gmail.com> Workstation
+date:        Tue Aug 30 21:19:51 2011 +0800
+files:       .hgignore en_US/eng_index_avatar.html en_US/eng_index_controls.html en_US/eng_index_default.html en_US/eng_index_img_addon.html en_US/eng_index_img_beard.html en_US/eng_index_img_down.html en_US/eng_index_img_gen.html en_US/eng_index_img_hair.html en_US/eng_index_img_save.html en_US/eng_index_img_wear.html en_US/eng_index_left_menu.html en_US/eng_index_load.html en_US/eng_index_right_menu.html en_US/eng_index_save.html en_US/eng_index_tw_login.html en_US/eng_index_tw_logout.html en_US/eng_index_tw_save.html en_US/eng_maker_default.html en_US/eng_maker_img_addon.html en_US/eng_maker_img_beard.html en_US/eng_maker_img_boy.html en_US/eng_maker_img_brsh.html en_US/eng_maker_img_ersr.html en_US/eng_maker_img_gen.html en_US/eng_maker_img_girl.html en_US/eng_maker_img_hair.html en_US/eng_maker_img_save.html en_US/eng_maker_img_wear.html en_US/eng_maker_left_menu.html en_US/eng_maker_login.html en_US/eng_maker_maker.html en_US/eng_maker_right_menu.html en_US/eng_maker_save.html en_US/eng_maker_tw_login.html en_US/eng_maker_tw_logout.html zh_CN/eng_index_avatar.html zh_CN/eng_index_controls.html zh_CN/eng_index_default.html zh_CN/eng_index_img_addon.html zh_CN/eng_index_img_beard.html zh_CN/eng_index_img_down.html zh_CN/eng_index_img_gen.html zh_CN/eng_index_img_hair.html zh_CN/eng_index_img_save.html zh_CN/eng_index_img_wear.html zh_CN/eng_index_left_menu.html zh_CN/eng_index_load.html zh_CN/eng_index_right_menu.html zh_CN/eng_index_save.html zh_CN/eng_index_tw_login.html zh_CN/eng_index_tw_logout.html zh_CN/eng_index_tw_save.html zh_CN/eng_maker_default.html zh_CN/eng_maker_img_addon.html zh_CN/eng_maker_img_beard.html zh_CN/eng_maker_img_boy.html zh_CN/eng_maker_img_brsh.html zh_CN/eng_maker_img_ersr.html zh_CN/eng_maker_img_gen.html zh_CN/eng_maker_img_girl.html zh_CN/eng_maker_img_hair.html zh_CN/eng_maker_img_save.html zh_CN/eng_maker_img_wear.html zh_CN/eng_maker_left_menu.html zh_CN/eng_maker_login.html zh_CN/eng_maker_maker.html zh_CN/eng_maker_right_menu.html zh_CN/eng_maker_save.html zh_CN/eng_maker_tw_login.html zh_CN/eng_maker_tw_logout.html
+description:
+initiated from zip file.
+
+
+~/tuitpix-help-zh-CN

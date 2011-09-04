@@ -1,0 +1,17 @@
+<b>箭头</b>
+<br/><br/>
+点击箭头状图标可以循环选择相应的部件。
+<br/><br/>
+你现在正在调节 <span id="category"></span> <span id="part"></span>.
+<script>
+	var p = {
+			"gen": "<b>肤色</b> 和 <b>性别</b>",
+			"hair": "<b>发型</b> 和 <b>帽子</b>",
+			"beard": "<b>胡须</b>, <b>髭</b> 和 <b>表情</b>",
+			"wear": "<b>外衣</b> 和 <b>套装</b>",
+			"addon": "<b>配件</b>"
+		},
+		cat = (tuitpix.active !== "gen")? "<b>"+tuitpix.set[[tuitpix.active]][tuitpix.cats[[tuitpix.active]]][0]+"</b> in" : ""; 
+	$("#help_text #part").html(p[tuitpix.active]);
+	$("#help_text #category").html(cat);
+</script>
