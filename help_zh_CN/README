@@ -1,0 +1,27 @@
+
+Tuitpix Help Message Translation -- zh_CN
+============================================================
+
+Summary
+----------------------------------------
+Simplified Chinese translation for Tuitpix.com ~ HTML5 tool to create pixel art
+avatars.
+
+
+
+Encoding
+----------------------------------------
+Although NO 'charset=utf-8' meta information set in HTML files(since source
+codes are not involved in this repository), all HTML files are supposed to be
+encoded in utf8.
+
+
+
+Transfer
+----------------------------------------
+At the beginning of translation, changes and revisions are tracked with
+Mercurials. A log file hg.log in root of this repository displayed all changes
+happened in Mercurials VCS.
+The first revision in this repository is tagged 'rel1.1', showing the heredity
+character from Mercurials change set, in which the last release is tagged as
+'rel1.0'.
