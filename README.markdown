@@ -15,7 +15,7 @@ It has been developed and designed in a minimalist and fast way, using free open
 
 I (@sadasant) have to thank to all open knowledge, such as the posts made on blogs and forums about this technologies, like this post about saving canvas on the server. I've also used third-party libraries, such as tmhOAuth, jQuery and jsColor.
 
-You can read mor info at our [about page][1].
+You can read more info at our [about page][1].
 
 ## Small guide: ##
 * PHP files were not included for security.
